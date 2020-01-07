@@ -1,0 +1,26 @@
+
+
+.form{
+	margin-left: 70px;
+}
+body{
+        background-image: url("asset/laptop003.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+	  padding-top:70px;
+	  color:Black;
+}
+.Fblock{
+	color: blue;
+	background-color: black;
+}
+.jumbotron{
+	background-color: transparent;
+	text-align: center;
+}
+.form-group{
+	color: #d6110a;
+}
+
